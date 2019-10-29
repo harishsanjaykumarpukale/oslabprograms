@@ -1,0 +1,25 @@
+harishsp@harishsp-HP-Laptop-15-da1xxx:~/oslabprograms$ cc 3.c -lpthread
+harishsp@harishsp-HP-Laptop-15-da1xxx:~/oslabprograms$ ./a.out 
+
+Enter the string :
+harish
+
+Enter the character:
+k
+
+harish
+k
+
+The given character k doesn't occcur in the string "harish"
+harishsp@harishsp-HP-Laptop-15-da1xxx:~/oslabprograms$ ./a.out 
+
+Enter the string :
+harish
+
+Enter the character:
+r
+
+harish
+r
+
+The given character r occcurs in the string " harish"
