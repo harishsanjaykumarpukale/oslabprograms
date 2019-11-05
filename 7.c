@@ -19,7 +19,7 @@ void main(){
 	scanf("%d",&r);
 
 	for(i=0;i<r;i++){
-		printf("\nEnter the currently available instances of resource type %d",i+1);
+		printf("\nEnter the currently available instances of resource type %d:",i+1);
 		scanf("%d",&av[i]);
 	}
 
