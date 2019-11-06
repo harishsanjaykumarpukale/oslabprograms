@@ -1,0 +1,49 @@
+student@student-Veriton-M200-H310:~$ ./a.out 
+
+ Enter the name of secondary memory device:UBUNTU19_0
+d rwxr-xr-x  18  student  student 4096 Nov 06 16:31  .
+d rwxr-xr-x  19     root     root 4096 Oct 01 15:40  ..
+d rwxr-xr-x  19     root     root 4096 Oct 01 15:40  System Volume Information
+- rwxr-xr-x  19     root     root 4096 Oct 01 15:40  ldlinux.sys
+d rwxr-xr-x  19     root     root 4096 Oct 01 15:40  .disk
+d rwxr-xr-x  19     root     root 4096 Oct 01 15:40  boot
+d rwxr-xr-x  19     root     root 4096 Oct 01 15:40  casper
+d rwxr-xr-x  19     root     root 4096 Oct 01 15:40  dists
+d rwxr-xr-x  19     root     root 4096 Oct 01 15:40  EFI
+d rwxr-xr-x  19     root     root 4096 Oct 01 15:40  install
+d rwxr-xr-x  19     root     root 4096 Oct 01 15:40  isolinux
+- rwxr-xr-x  19     root     root 4096 Oct 01 15:40  md5sum.txt
+d rwxr-xr-x  19     root     root 4096 Oct 01 15:40  pics
+d rwxr-xr-x  19     root     root 4096 Oct 01 15:40  pool
+d rwxr-xr-x  19     root     root 4096 Oct 01 15:40  preseed
+- rwxr-xr-x  19     root     root 4096 Oct 01 15:40  README.diskdefines
+- rwxr-xr-x  19     root     root 4096 Oct 01 15:40  ubuntu
+- rwxr-xr-x  19     root     root 4096 Oct 01 15:40  syslinux.cfg
+d rwxr-xr-x  19     root     root 4096 Oct 01 15:40  New folder
+student@student-Veriton-M200-H310:~$ 
+
+
+
+
+//OUTPUT BY ACTUAL ls -l COMMAND MATCHES
+
+student@student-Veriton-M200-H310:~$ cd /media/student/UBUNTU19_0/
+student@student-Veriton-M200-H310:/media/student/UBUNTU19_0$ ls -l
+total 208
+drwxr-xr-x 3 student student  8192 Sep 23 08:56  boot
+drwxr-xr-x 2 student student  8192 Sep 23 08:56  casper
+drwxr-xr-x 3 student student  8192 Sep 23 09:03  dists
+drwxr-xr-x 3 student student  8192 Sep 23 09:03  EFI
+drwxr-xr-x 2 student student  8192 Sep 23 09:03  install
+drwxr-xr-x 2 student student 16384 Sep 23 09:03  isolinux
+-r--r--r-- 1 student student 69145 Sep 23 08:56  ldlinux.sys
+-rw-r--r-- 1 student student 21399 Sep 23 09:04  md5sum.txt
+drwxr-xr-x 5 student student  8192 Nov  1 19:22 'New folder'
+drwxr-xr-x 2 student student  8192 Sep 23 09:04  pics
+drwxr-xr-x 4 student student  8192 Sep 23 09:04  pool
+drwxr-xr-x 2 student student  8192 Sep 23 09:04  preseed
+-rw-r--r-- 1 student student   225 Sep 23 09:04  README.diskdefines
+-rw-r--r-- 1 student student    94 Sep 23 09:04  syslinux.cfg
+drwxr-xr-x 2 student student  8192 Sep 23 08:56 'System Volume Information'
+-rw-r--r-- 1 student student     0 Sep 23 09:04  ubuntu
+student@student-Veriton-M200-H310:/media/student/UBUNTU19_0$ 
