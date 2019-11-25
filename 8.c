@@ -53,7 +53,7 @@ void seg_alloc(int ts,int r){
 		if(tree[i]==0 && place(i)){
 			tree[i]=r;
 			makedivided(i);
-			printf("\nAllocation Succesful\n");
+			printf("\nAllocation Successfull\n");
 			break;
 		}
 	}
