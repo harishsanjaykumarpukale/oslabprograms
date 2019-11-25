@@ -18,8 +18,7 @@ void ls(){
 	struct tm *t;
 	char time[26];
 
-        de=readdir(d);
-        de=readdir(d);
+        
 
 
 
