@@ -18,10 +18,8 @@ void ls(){
 	struct tm *t;
 	char time[26];
 
-
-
-
-	char P[]="rwxrwxrwx",AP[]="";
+        de=readdir(d);
+        de=readdir(d);
 
 
 
