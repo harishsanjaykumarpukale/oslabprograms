@@ -1,0 +1,73 @@
+Enter the total size of memory available :32
+
+Press 
+ 1 for Allocating memory to process
+ 2 for Deallocating  memory from process
+ 3 for Displaying the memory allocation 
+ 4 for exiting n  :1
+
+Enter the memory required by process:5
+
+Allocation Successfull
+
+Press 
+ 1 for Allocating memory to process
+ 2 for Deallocating  memory from process
+ 3 for Displaying the memory allocation 
+ 4 for exiting n  :1
+
+Enter the memory required by process:6
+
+Allocation Successfull
+
+Press 
+ 1 for Allocating memory to process
+ 2 for Deallocating  memory from process
+ 3 for Displaying the memory allocation 
+ 4 for exiting n  :1
+
+Enter the memory required by process:7
+
+Allocation Successfull
+
+Press 
+ 1 for Allocating memory to process
+ 2 for Deallocating  memory from process
+ 3 for Displaying the memory allocation 
+ 4 for exiting n  :1
+
+Enter the memory required by process:8
+
+Allocation Successfull
+
+Press 
+ 1 for Allocating memory to process
+ 2 for Deallocating  memory from process
+ 3 for Displaying the memory allocation 
+ 4 for exiting n  :3
+32-->Divided
+16-->Divided
+8-->Allocated 5	8-->Allocated 6	16-->Divided
+8-->Allocated 7	8-->Allocated 8	
+Press 
+ 1 for Allocating memory to process
+ 2 for Deallocating  memory from process
+ 3 for Displaying the memory allocation 
+ 4 for exiting n  :2
+
+Enter the size of the process:6
+
+Press 
+ 1 for Allocating memory to process
+ 2 for Deallocating  memory from process
+ 3 for Displaying the memory allocation 
+ 4 for exiting n  :3
+32-->Divided
+16-->Divided
+8-->Allocated 5	8-->Free16-->Divided
+8-->Allocated 7	8-->Allocated 8	
+Press 
+ 1 for Allocating memory to process
+ 2 for Deallocating  memory from process
+ 3 for Displaying the memory allocation 
+ 4 for exiting n  :4
