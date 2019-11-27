@@ -1,0 +1,22 @@
+
+Enter the number of Producers and Consumers:5 5
+
+Producer produced 103.
+
+Producer produced 46.
+
+Producer produced 52.
+
+Producer produced 25.
+
+Producer produced 98.
+
+Consumer consumed 98 
+
+Consumer consumed 25 
+
+Consumer consumed 52 
+
+Consumer consumed 46 
+
+Consumer consumed 103 
