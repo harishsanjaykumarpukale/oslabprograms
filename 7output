@@ -1,120 +1,62 @@
 
-Enter the no of processess:5
+Enter the total no of proccess:5 3
 
-Enter the no of different resources:3
+Enter the no of differnt types of resources:
+Enter the available instances of resource
+of type 1:3
 
-Enter the currently available instances of resource type 1:3
+of type 2:3
 
-Enter the currently available instances of resource type 2:3
+of type 3:2
 
-Enter the currently available instances of resource type 3:2
+Enter the max no of resources required by  
+Proccess 1 in order:7 5 3
 
-Enter the Max Value of resource req by process 0
-Resource of type 1:7
+Proccess 2 in order:3 2 2
 
-Resource of type 2:5
+Proccess 3 in order:9 0 2
 
-Resource of type 3:3
+Proccess 4 in order:2 2 2
 
-Enter the Max Value of resource req by process 1
-Resource of type 1:3
+Proccess 5 in order:4 3 3
 
-Resource of type 2:2
+Enter the allocated no of resources to 
+Proccess 1 in order:0 1 0
 
-Resource of type 3:2
+Proccess 2 in order:2 0 0
 
-Enter the Max Value of resource req by process 2
-Resource of type 1:9
+Proccess 3 in order:3 0 2
 
-Resource of type 2:0
+Proccess 4 in order:2 1 1
 
-Resource of type 3:2
+Proccess 5 in order:0 0 2
 
-Enter the Max Value of resource req by process 3
-Resource of type 1:2
+Need Matrix is as follows:7	4	3	
+1	2	2	
+6	0	0	
+0	1	1	
+4	3	1	
 
-Resource of type 2:2
+Process 1
+Process 3
+Process 4
+Process 0
+Process 2
+RESOURCE REQUEST ALGORITHM
 
-Resource of type 3:2
+Enter the process number:2
 
-Enter the Max Value of resource req by process 4
-Resource of type 1:4
+Enter the resource request  vector:1 0 2
 
-Resource of type 2:3
+Enter the available instances of resource
+of type 1:3 
 
-Resource of type 3:3
+of type 2:3
 
-Enter the Alloted  Value of resource to process 0
-Resource of type 1:0
+of type 3:2
 
-Resource of type 2:1
-
-Resource of type 3:0
-
-Enter the Alloted  Value of resource to process 1
-Resource of type 1:2
-
-Resource of type 2:0
-
-Resource of type 3:0
-
-Enter the Alloted  Value of resource to process 2
-Resource of type 1:3
-
-Resource of type 2:0
-
-Resource of type 3:2
-
-Enter the Alloted  Value of resource to process 3
-Resource of type 1:2
-
-Resource of type 2:1
-
-Resource of type 3:1
-
-Enter the Alloted  Value of resource to process 4
-Resource of type 1:0
-
-Resource of type 2:0
-
-Resource of type 3:2
-Process - 1
-Process - 3
-Process - 4
-Process - 0
-Process - 2
-
-
-
-//2nd ouput
-
-
-Enter the no of processess:2
-
-Enter the no of different resources:2
-
-Enter the currently available instances of resource type 10
-
-Enter the currently available instances of resource type 20
-
-Enter the Max Value of resource req by process 0
-Resource of type 1:10
-
-Resource of type 2:25
-
-Enter the Max Value of resource req by process 1
-Resource of type 1:1
-
-Resource of type 2:5
-
-Enter the Alloted  Value of resource to process 0
-Resource of type 1:5
-
-Resource of type 2:6
-
-Enter the Alloted  Value of resource to process 1
-Resource of type 1:4
-
-Resource of type 2:3
-
-Deadlock
+Process 1
+Process 3
+Process 4
+Process 0
+Process 2
