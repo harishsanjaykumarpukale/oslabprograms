@@ -40,7 +40,7 @@ void seg_alloc(int ts,int r){
 	}
 
 	while(s!=0){
-		if(r<ts && r>=s/2)
+		if(r<ts && r>s/2)
 			break;
 
 		else{
